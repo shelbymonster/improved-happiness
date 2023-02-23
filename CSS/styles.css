@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+.top-container {
+    background-color: #ffdcc1;
+    padding-top: 70px;
+    position: relative;
+    padding-bottom: 90px;
+}
+.middle-container {
+    background-color: #ffdcc1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.bottom-container {
+    background-color: #ffdcc1;
+    padding: 50px 0 50px 0;
+}
+.skill-row{
+    width: 40%;
+    margin: 50px auto 0 auto;
+    text-align: left;
+}
+.skill-row1{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: right;
+}
+
+.btn {
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 21px;
+    background: #ffc343;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffd787;
+    text-decoration: none;
+  }
+ /*************************************************************TEXT***********************************************************************/
+
+ h1{
+    margin: 0px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 6rem;
+    line-height: 2;
+    color: #F7A4A4;
+    
+}
+h2{
+    font-family: 'Shadows Into Light', cursive;
+    background-color: #fde6d4;
+    font-size: 3rem;
+    margin: 0px;
+    margin-bottom: 50px;
+    font-weight: normal;
+    color: #F7A4A4
+}
+h3{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.hello {
+    font-family: 'Shadows Into Light', cursive;
+    width: 100%;
+    font-size: 3.5rem;
+}
+.passion{
+    width: 100%;
+    margin-bottom: 48px;
+
+}
+.my-skills{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3.5rem;
+    text-align: center;
+}
+.sendmessage{
+    padding-bottom: 25px;
+}
+.programmer-text{
+    font-family: 'Barlow', sans-serif;
+}
+/**************************************************************IMAGES*********************************************************************/
+.css-logo{
+    width: 10%;
+
+}
+.html-logo{
+    width:10%;
+
+}
+.js-logo{
+    width:10%;
+
+}
+.sql-logo{
+    width: 10%;
+
+}
+.node-logo{
+    width: 10%;
+
+}
+.py-logo{
+    width: 10%;
+}
+.left-swirl{
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+.right-swirl{
+    position: absolute; 
+    top: 50px;
+    right: 200px; 
+}
+.bottom-swirl{
+    position:absolute;
+    right: 280px;
+}
